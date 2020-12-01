@@ -1,4 +1,4 @@
-Um das Programm auszuführen muss mit Programmstart ein gültiger Dateipfad, mit einer Textdatei, als String angegeben werden.
+Um das Programm auszufÃ¼hren muss mit Programmstart ein gÃ¼ltiger Dateipfad einer Textdatei als String angegeben werden.
 Diese Datei sollte wie das Beispiel in der Aufgabenstellung strukturiert sein:
 
 Anzahl Lebewesen(N)
